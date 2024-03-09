@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Top 10 Anime on MyAnimeList</string>
+    <string name="anime_name">Nama Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="nama">Seva Giantama Farel</string>
+    <string name="email_seva">sevafarel17@gmail.com</string>
+    <string name="my_profile">my Profile</string>
+
+    <string-array name="data_name">
+        <item>Attack on Titan</item>
+        <item>Clannad</item>
+        <item>Frieren</item>
+        <item>Fruits Basket</item>
+        <item>Fullmetal Alchemist</item>
+        <item>Gintama</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Koe No Katachi</item>
+        <item>Steins Gate</item>
+        <item>Violet Evergarden</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Attack on Titan adalah serial anime yang berlatar di dunia fiksi yang dikuasai oleh para Titan, makhluk raksasa yang memakan manusia. Kisah dimulai ketika umat manusia tinggal di kota terakhir yang tersisa, yang dikelilingi oleh tembok raksasa untuk melindungi mereka dari serangan Titan. Eren Yeager, tokoh utama, bersama sahabatnya Mikasa Ackerman dan Armin Arlert, bertekad untuk membalas dendam pada Titan karena telah menghancurkan kehidupan mereka.
+
+Ketika dinding pertama di tembok mereka dirusak oleh Titan Kolosal, umat manusia diserang dan kota mereka diserbu. Eren menyaksikan ibunya dimakan hidup-hidup oleh Titan, yang memicunya untuk bergabung dengan Pasukan Pengintai, sebuah unit militer yang bertugas melawan Titan. Bersama dengan teman-temannya, Eren belajar menggunakan alat manuver 3D yang memungkinkan mereka bergerak dengan cepat dan menghadapi Titan.
+
+Selama perjalanan mereka, Eren dan kawan-kawannya mengungkap berbagai misteri tentang asal-usul Titan dan sejarah dunia mereka. Mereka menemukan bahwa ada konspirasi besar di balik keberadaan Titan dan dinding-dinding yang mengelilingi mereka. Sementara itu, konflik antara manusia juga meningkat, dengan kelompok-kelompok yang berjuang untuk kekuasaan dan kontrol.
+
+Kisahnya penuh dengan intrik politik, pertempuran epik, dan penuh dengan teka-teki yang membingungkan. Eren sendiri memiliki rahasia yang tersembunyi dalam dirinya yang dapat mengubah segalanya. Dengan penuh dramatisme dan ketegangan yang terus meningkat, Attack on Titan mempersembahkan pengalaman yang mendebarkan dan memikat bagi para penggemar anime. Dengan gambaran yang gelap dan karakter-karakter yang kompleks, serial ini telah menjadi salah satu anime paling berpengaruh dalam dekade terakhir.</item>
+        <item>"Clannad" adalah anime yang mengikuti kisah Tomoya Okazaki, seorang siswa SMA yang cenderung apatis dan tidak tertarik pada kehidupan sekolahnya. Namun, segalanya berubah ketika ia bertemu dengan Nagisa Furukawa, seorang gadis yang memiliki impian untuk meraih kembali klub drama sekolah yang sudah lama tidak aktif. Meskipun awalnya enggan, Tomoya setuju untuk membantu Nagisa dan secara bertahap mulai membuka diri pada hubungan baru ini.
+
+Selama perjalanan mereka, Tomoya dan Nagisa bertemu dengan sejumlah karakter lain yang juga memiliki cerita hidup mereka sendiri. Mereka membentuk ikatan yang kuat satu sama lain dan saling mendukung dalam mengatasi berbagai kesulitan dan tantangan dalam kehidupan mereka. Sementara itu, Tomoya juga menghadapi masalah pribadi yang dalam, termasuk hubungannya dengan ayahnya yang buruk.
+
+Pada intinya, "Clannad" menggambarkan tema tentang pentingnya keluarga, persahabatan, dan cinta dalam mengatasi kesedihan dan kesulitan hidup. Cerita ini mengeksplorasi perjuangan emosional dan pertumbuhan karakter yang mendalam, menyajikan momen yang penuh dengan kehangatan, kebahagiaan, serta kesedihan yang mendalam. Melalui berbagai kisah yang kompleks, "Clannad" mengajarkan kita tentang kekuatan hubungan manusiawi dan betapa pentingnya dukungan dari orang-orang yang kita cintai.
+
+Dengan animasi yang indah dan musik yang mengharukan, anime ini berhasil mengambil hati para penonton dengan cerita yang mendalam dan karakter yang kuat. "Clannad" tidak hanya menyentuh hati penonton, tetapi juga menginspirasi mereka untuk menghargai setiap momen dalam kehidupan dan nilai-nilai yang benar-benar berarti. Sebagai salah satu anime drama romantis terbaik, "Clannad" telah menetapkan standar tinggi dalam genre ini dan tetap menjadi salah satu yang paling dihormati oleh penggemar anime di seluruh dunia.</item>
+        <item>"Sousou no Frieren" adalah sebuah anime yang mengisahkan tentang petualangan seorang peri yang bernama Frieren. Peri tersebut telah hidup selama berabad-abad, namun ia memutuskan untuk meninggalkan dunianya yang damai untuk menyelamatkan temannya yang telah berubah menjadi manusia. Dalam perjalanannya, Frieren bertemu dengan sekelompok petualang muda yang terdiri dari manusia biasa.
+
+Frieren, yang memiliki kekuatan magis yang luar biasa, memimpin kelompok ini dalam petualangan mereka yang penuh bahaya. Mereka berhadapan dengan berbagai tantangan, mulai dari monster yang ganas hingga makhluk magis yang misterius. Selama perjalanan ini, Frieren dan teman-temannya tidak hanya menghadapi bahaya fisik, tetapi juga perjuangan batin dan dilema moral.
+
+Seiring berjalannya waktu, persahabatan di antara Frieren dan para petualang muda tersebut semakin kuat, dan mereka belajar banyak hal satu sama lain. Frieren sendiri mengalami pertumbuhan emosional dan spiritual saat ia mempertanyakan tujuan hidupnya dan arti persahabatan. Sementara itu, ia juga harus menghadapi masa lalu yang kelam dan rahasia yang tersembunyi.
+
+Dengan visual yang memukau dan cerita yang mendalam, "Sousou no Frieren" menghadirkan pengalaman yang mendalam bagi penontonnya. Anime ini menggabungkan elemen fantasi yang menarik dengan tema-tema filosofis yang dalam, membuatnya menjadi kisah yang memikat dan menggugah pikiran. Dengan karakter-karakter yang kompleks dan perkembangan cerita yang menarik, "Sousou no Frieren" menjadi salah satu anime yang patut ditonton.</item>
+        <item>Fruits Basket adalah sebuah cerita yang mengikuti kehidupan seorang gadis bernama Tohru Honda setelah dia kehilangan ibunya dalam sebuah kecelakaan. Tanpa tempat tinggal, Tohru tinggal di tenda sementara dan kemudian diundang untuk tinggal bersama keluarga Sohma, di mana dia mengetahui rahasia besar mereka: mereka terkutuk menjadi representasi dari zodiak Cina. Setiap anggota keluarga Sohma memiliki sisi binatang yang terhubung dengan tanda zodiak tertentu, dan ketika mereka dipeluk oleh lawan jenis atau merasa lemah, mereka berubah menjadi binatang tersebut.
+
+Dalam perjalanannya menjalani kehidupan bersama keluarga Sohma, Tohru bertemu dengan banyak anggota keluarga dan membantu mereka menghadapi traumatis dan konflik internal mereka. Dia terutama terikat dengan trio utama: Yuki, Kyo, dan Shigure. Yuki adalah anggota Sohma yang dipuja sebagai pangeran di sekolahnya, Kyo adalah anak terbuang dari keluarga yang dianggap terkutuk, sementara Shigure adalah pria dewasa cerdas yang memiliki motif yang tersembunyi.
+
+Sementara Tohru berusaha membantu keluarga Sohma mengatasi kutukan mereka, dia juga harus menangani perasaannya sendiri terhadap mereka, terutama Yuki dan Kyo. Konflik cinta segitiga dan pertarungan internal mendominasi narasi, sementara tema-tema seperti keluarga, persahabatan, dan penerimaan diri sendiri juga diperluas. Fruits Basket menawarkan kombinasi unik dari drama emosional, komedi ringan, dan elemen fantasi yang menarik perhatian pemirsa anime. Dengan karakter-karakter yang kuat dan perkembangan yang mendalam, cerita ini menjadi salah satu anime yang paling disukai oleh penggemar dari berbagai usia.</item>
+        <item>"Fullmetal Alchemist" adalah kisah petualangan yang menarik di dunia fiksi di mana alkimia menjadi dasar ilmu pengetahuan. Cerita mengikuti petualangan dua bersaudara, Edward dan Alphonse Elric, yang mencoba untuk menggunakan alkimia untuk menghidupkan kembali ibu mereka yang telah meninggal. Namun, percobaan mereka berakhir tragis, dengan Ed kehilangan kakinya dan Al kehilangan tubuhnya secara keseluruhan. Untuk menyelamatkan adiknya, Ed mengikat roh Al ke dalam sebuah baju besi, sementara dirinya sendiri memiliki prostesis mekanis di kakinya.
+
+Petualangan mereka membawa mereka ke berbagai tempat dalam pencarian untuk Batu Bertuah, sebuah artefak alkimia yang konon dapat memungkinkan mereka memulihkan tubuh mereka. Namun, di sepanjang jalan, mereka bertemu dengan berbagai konspirasi politik, musuh-musuh yang kuat, dan rahasia gelap tentang dunia alkimia. Mereka juga berinteraksi dengan berbagai karakter yang memperdalam cerita dan memberikan perbedaan moral yang kompleks.
+
+"Fullmetal Alchemist" tidak hanya menawarkan aksi dan petualangan yang menegangkan, tetapi juga menggali tema-tema mendalam tentang kehidupan, kematian, dan moralitas. Pertanyaan tentang harga kekuasaan, keadilan, dan kehilangan menjadi benang merah yang menjalin plot yang kompleks dan menarik. Sementara itu, karakter-karakternya berkembang dengan latar belakang yang rumit dan berkembang seiring dengan perkembangan cerita.
+
+Dengan animasi yang indah, pertarungan epik, dan plot yang rumit, "Fullmetal Alchemist" telah menjadi salah satu anime terkenal dan dihormati sejak pertama kali muncul. Adaptasi manga-nya juga sangat populer, memperoleh pengakuan luas di kalangan penggemar anime dan manga di seluruh dunia. Keseluruhan, kisah ini menawarkan perpaduan yang sempurna antara aksi, drama, dan refleksi filosofis yang menjadikannya sebuah karya seni yang tak terlupakan.</item>
+        <item>"Gintama" adalah anime komedi aksi yang mengambil latar di dunia alternatif Edo, yang dikuasai oleh bangsa Amanto, alien dari luar angkasa. Ceritanya mengikuti petualangan seorang samurai bernama Gintoki Sakata, bersama dengan teman-temannya, Shinpachi Shimura dan Kagura, dalam menjalankan pekerjaan sebagai freelancer yang menyelesaikan berbagai macam masalah di kota tersebut. Meskipun penuh dengan humor slapstick, "Gintama" juga menyentuh tema-tema yang serius dan memiliki momen-momen emosional yang mendalam.
+
+Di tengah-tengah keseharian mereka, Gintoki dan kawan-kawan sering terlibat dalam konflik dengan berbagai kelompok kejahatan, termasuk Yakuza, ninja, dan alien. Mereka juga harus berhadapan dengan agen pemerintah yang korup dan konspirasi yang mengancam kedamaian kota. Meskipun tidak memiliki kemampuan fisik yang luar biasa, kecerdasan dan keberanian mereka sering kali membawa mereka keluar dari situasi sulit.
+
+Salah satu daya tarik utama "Gintama" adalah referensi budaya dan parodi yang melimpah, termasuk referensi ke anime, manga, dan budaya populer lainnya. Ini memberikan kesan yang unik dan menyenangkan bagi para penonton yang mengerti referensi-referensi tersebut. Selain itu, anime ini juga dikenal dengan episode-episode filler yang lucu dan kreatif, yang sering kali tidak berhubungan dengan plot utama, tetapi tetap menghibur.
+
+Selain aksi dan komedi, "Gintama" juga menghadirkan kisah-kisah yang mengharukan tentang persahabatan, pengorbanan, dan kehidupan yang berharga. Meskipun sering kali kocak dan konyol, anime ini juga mampu menyampaikan pesan moral yang mendalam dan menyentuh hati penontonnya. Keseluruhan, "Gintama" merupakan anime yang menyenangkan dengan kombinasi yang sempurna antara aksi, komedi, dan emosi yang membuatnya sangat populer di kalangan penggemar anime.</item>
+        <item>"Jujutsu Kaisen" adalah anime aksi supernatural yang berpusat pada seorang remaja bernama Yuji Itadori, yang menemukan dirinya terlibat dalam dunia paranormal yang berbahaya setelah menemukan artefak kuno yang sangat kuat di sekolahnya. Setelah menyentuhnya, ia terlibat dalam konflik antara manusia dan makhluk jahat yang dikenal sebagai "Kutukan". Untuk menyelamatkan teman-temannya, Yuji mengkonsumsi artefak tersebut, yang menyebabkan roh kutukan yang kuat berada di dalam tubuhnya.
+
+Yuji kemudian bergabung dengan Sekolah Tinggi Jujutsu, sebuah lembaga khusus yang bertugas melawan dan menangkap roh-roh kutukan. Di sana, ia bertemu dengan instruktur berpengalaman, Satoru Gojo, dan rekan-rekannya, termasuk Nobara Kugisaki dan Megumi Fushiguro. Mereka bersama-sama belajar dan berlatih untuk menghadapi ancaman dari roh-roh kutukan yang semakin mematikan.
+
+Selama perjalanan mereka, Yuji dan timnya menghadapi berbagai tantangan, termasuk bertarung melawan makhluk-makhluk kuat dan mengungkap rahasia-rahasia gelap di balik organisasi Jujutsu. Mereka juga belajar tentang kekuatan sejati persahabatan dan keberanian, sambil menjalani pertempuran epik yang menguji kemampuan mereka.
+
+Dengan animasi yang mengagumkan, pertempuran yang mendebarkan, dan karakter-karakter yang kuat, "Jujutsu Kaisen" telah memikat penonton dengan ceritanya yang seru dan dunia supernatural yang menarik. Serial ini berhasil menggabungkan elemen-elemen aksi, komedi, dan horor dengan baik, membuatnya menjadi salah satu anime paling populer dan diantisipasi oleh penggemar genre. Dengan plot yang terus berkembang dan karakter-karakter yang kompleks, "Jujutsu Kaisen" adalah anime yang layak untuk ditonton oleh siapa pun yang menyukai cerita yang penuh aksi dan misteri.</item>
+        <item>"Koe no Katachi" atau dikenal juga sebagai "A Silent Voice" adalah kisah yang berfokus pada pertumbuhan dan penyesalan. Cerita dimulai dengan seorang siswa SMP bernama Shoya Ishida yang menjadi pelaku bullying terhadap seorang siswi tuli bernama Shoko Nishimiya. Bullying yang dilakukan oleh Shoya dan teman-temannya membuat Shoko pindah sekolah dan mengalami isolasi sosial yang mendalam. Shoya sendiri akhirnya menjadi terisolasi karena perlakuan buruknya di masa lalu.
+
+Namun, suatu hari Shoya bertemu kembali dengan Shoko dan berusaha untuk memperbaiki kesalahannya. Dia merasa bersalah atas perbuatannya dan berusaha untuk mendapatkan pengampunan dan meraih keselamatan batin. Kehadiran Shoko dalam hidupnya memicu perubahan mendalam dalam diri Shoya, dan dia mulai memperjuangkan kembali arti persahabatan dan kebaikan hati.
+
+Kisah ini menggambarkan perjalanan emosional Shoya dalam mengatasi penyesalan dan memperbaiki kesalahannya. Dia belajar untuk menerima dirinya sendiri, menghadapi masa lalunya, dan menemukan makna sejati dari persahabatan dan kedermawanan. Selain itu, hubungan antara Shoya dan Shoko juga menggambarkan pentingnya komunikasi, empati, dan pengertian terhadap orang lain yang berbeda.
+
+Dengan visual yang indah dan cerita yang penuh emosi, "Koe no Katachi" menyajikan pesan yang mendalam tentang pentingnya kebaikan hati, penerimaan diri, dan kesempatan kedua. Melalui perjalanan karakter utamanya, penonton diajak untuk merenungkan tindakan mereka sendiri terhadap orang lain dan bagaimana kebaikan hati dapat mengubah kehidupan orang lain serta diri sendiri. Ini adalah kisah yang mengharukan dan menginspirasi, mendorong penonton untuk berpikir lebih dalam tentang arti sejati dari persahabatan dan pengampunan.</item>
+        <item>Steins;Gate adalah anime yang menggabungkan elemen ilmiah, petualangan, dan thriller psikologis. Ceritanya berpusat pada seorang ilmuwan muda bernama Rintarou Okabe, yang juga dikenal sebagai Hououin Kyouma, yang percaya bahwa organisasi rahasia sedang memantau tindakannya. Bersama teman-temannya di Laboratorium Penelitian Gadget Kegelapan, termasuk Mayuri Shiina dan hacker otaku Daru, Okabe menemukan cara untuk mengirim pesan ke masa lalu melalui microwave yang dimodifikasi, yang mengubah sejarah dan menciptakan "garis waktu alternatif".
+
+Namun, Okabe segera menyadari bahwa perubahan kecil dalam masa lalu dapat memiliki dampak besar pada masa depan. Ketika eksperimen mereka memicu serangkaian peristiwa yang mengancam nyawa Mayuri, Okabe terjebak dalam spiral kegilaan dan keputusasaan untuk menyelamatkan temannya. Dia mulai menggunakan kemampuan "D-Mail" untuk mengubah peristiwa masa lalu, tetapi menemukan bahwa konsekuensinya tak terduga dan seringkali mengerikan.
+
+Dengan bantuan Kurisu Makise, seorang ilmuwan genius, Okabe mencoba memahami dan mengatasi konsekuensi dari manipulasi waktu yang dilakukannya. Mereka menghadapi berbagai tantangan, termasuk organisasi rahasia yang mengincar teknologi mereka dan konspirasi global yang lebih besar. Sementara itu, Okabe juga harus menghadapi perjuangannya sendiri dengan moralitas dan rasa bersalah atas tindakan-tindakannya yang merusak.
+
+Steins;Gate mempersembahkan narasi yang kompleks dan penuh dengan plot twists yang membingungkan, memikat penonton dengan alur cerita yang menarik dan karakter-karakter yang mendalam. Dengan sentuhan ilmiah yang kuat dan pengembangan karakter yang kaya, anime ini telah menjadi salah satu favorit penggemar genre thriller dan fiksi ilmiah. Dikombinasikan dengan elemen emosional yang kuat dan tema tentang konsekuensi dari manipulasi waktu, Steins;Gate menghadirkan pengalaman yang mendalam dan memikat bagi para penontonnya.</item>
+        <item>Violet Evergarden mengisahkan tentang seorang wanita muda bernama Violet yang dulunya merupakan seorang tentara di masa perang yang berkeinginan untuk menemukan arti dari kata-kata terakhir yang diucapkan oleh komandan barunya, "Aku mencintaimu". Setelah perang berakhir, Violet kehilangan kedua lengannya dan menjalani pemulihan di rumah sakit. Setelah sembuh, dia memulai kehidupan baru sebagai "Auto Memory Doll", seseorang yang menulis surat atas nama orang lain.
+
+Dalam perjalanan kariernya, Violet bertemu dengan berbagai klien yang memiliki cerita hidup yang berbeda-beda, dan dia belajar tentang berbagai aspek emosi manusia dan bagaimana menyampaikan perasaan mereka melalui kata-kata. Dengan setiap surat yang dia tulis, Violet juga semakin memahami emosinya sendiri dan mencari arti dari kata-kata terakhir komandannya.
+
+Sementara itu, Violet juga berusaha mencari tahu tentang arti cinta sejati, terutama dalam hubungannya dengan seorang teman masa kecilnya, Gilbert, yang telah hilang dalam perang. Perjalanan Violet dalam menemukan kedamaian batin dan memahami perasaannya sendiri membuatnya semakin dekat dengan orang-orang di sekitarnya.</item>
+
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/attack_on_titan</item>
+        <item>@drawable/clannad</item>
+        <item>@drawable/frieren</item>
+        <item>@drawable/fruits_basket</item>
+        <item>@drawable/fullmetal_alchemist</item>
+        <item>@drawable/gintama</item>
+        <item>@drawable/jujutsu_kaisen</item>
+        <item>@drawable/koe_no_katachi</item>
+        <item>@drawable/steins_gate</item>
+        <item>@drawable/violet_evergarden</item>
+    </array>
+</resources>
